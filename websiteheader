@@ -2,11 +2,11 @@
 
 <html>
     <head>
-        <title>This is a title</title>
+        <title>Welcome to our website</title>
     </head>
     <body>  
         <script>
-            Text: "Hi my name is"; 
+            Text: "Hi our names our"; 
         </script>
 
     </body>
